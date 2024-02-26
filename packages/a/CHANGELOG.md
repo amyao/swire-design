@@ -1,5 +1,5 @@
-# @luhengchang228/monorepo-pkg-a
+# @swire-design/monorepo-pkg-a
 
-## 0.0.0
+## 1.0.0
 
 - feat: init package
