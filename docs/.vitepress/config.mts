@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Swire Design",
   description: "Swire FE Infrastructure Assets",
-  base: "/repo/",
+  base: "/swire-design/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
